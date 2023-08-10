@@ -1,4 +1,4 @@
-# 🪪App Cadastro Funcionarios
+# 🪪App Cadastro de Funcionarios
 Um projeto de cadastro de funcionários<br>
 Fiz a muito tempo atraz,bem simples mais funcional👌<br>
 Feito em Python e as Bibliotecas Tkinter(Nativa do Python) e [Customtkinter](https://github.com/TomSchimansky/CustomTkinter)
