@@ -1,8 +1,8 @@
 ### App_Cadastro_Funcionarios
- Um projeto de cadastro de funcioários<br>
- Fiz a muito tempo atraz,bem simples mais funcional👌<br>
- Feito em Python e as Bibliotecas Tkinter(Nativa do Python) e [Customtkinter](https://github.com/TomSchimansky/CustomTkinter)
- ##
+Um projeto de cadastro de funcionários<br>
+Fiz a muito tempo atraz,bem simples mais funcional👌<br>
+Feito em Python e as Bibliotecas Tkinter(Nativa do Python) e [Customtkinter](https://github.com/TomSchimansky/CustomTkinter)
+##
 ### Tela de Login
 ![tela_login](https://github.com/MatheusCarniato/App_Cadastro_Funcionarios/assets/141453630/4c1c4dbd-31d3-4578-9842-0e5aa7f823b7)
 ##
@@ -15,6 +15,6 @@
 Já existe um cadastro meramente ilustrativo
 ![ver_cadastros](https://github.com/MatheusCarniato/App_Cadastro_Funcionarios/assets/141453630/92299880-61a4-458a-b627-7edb95ab1378)
 #### Na opição em Ver Cadastros ➡️ Atualizar
-   ![atualizar_dados](https://github.com/MatheusCarniato/App_Cadastro_Funcionarios/assets/141453630/762ad74c-baf9-4360-b547-646c86536460)
+![atualizar_dados](https://github.com/MatheusCarniato/App_Cadastro_Funcionarios/assets/141453630/762ad74c-baf9-4360-b547-646c86536460)
 #### Na opção Ver Cadastros ➡️ Deletar
-   ![deleta_cadastro](https://github.com/MatheusCarniato/App_Cadastro_Funcionarios/assets/141453630/eb0e59ac-2ffc-47d5-86ec-996fd448ea0d)
+![deleta_cadastro](https://github.com/MatheusCarniato/App_Cadastro_Funcionarios/assets/141453630/eb0e59ac-2ffc-47d5-86ec-996fd448ea0d)
